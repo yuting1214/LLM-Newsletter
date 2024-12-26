@@ -4,3 +4,5 @@ fpdf
 Jinja2
 PyPDF2
 reportlab
+eventregistry
+python-dotenv
