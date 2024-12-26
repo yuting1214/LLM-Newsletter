@@ -1,0 +1,6 @@
+python-dotenv
+openai>=1.0.0
+fpdf
+Jinja2
+PyPDF2
+reportlab

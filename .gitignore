@@ -1,0 +1,61 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Environment variables
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project specific
+logs/
+output/
+
+# Data directory
+data/*
+!data/.gitkeep
+*_chunk
+*_db
+
+# Assets
+assets/*
+
+# PDF
+*.pdf
+
+# Analysis outputs
+*.csv
+*.xlsx
+processing_history.* 
